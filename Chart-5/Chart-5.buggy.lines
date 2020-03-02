@@ -1,0 +1,4 @@
+org/jfree/data/xy/XYSeries.java#548#        if (index >= 0 && !this.allowDuplicateXValues) {
+org/jfree/data/xy/XYSeries.java#541#FAULT_OF_OMISSION
+org/jfree/data/xy/XYSeries.java#546#FAULT_OF_OMISSION
+org/jfree/data/xy/XYSeries.java#547#FAULT_OF_OMISSION
